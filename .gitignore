@@ -1,0 +1,16 @@
+eng_voices/
+tr_voices/
+mp3/
+voices/
+test/
+yedek/
+yedek_model/
+build/
+dist/
+model/
+model2/
+anlık_test/
+*.json
+__pycache__/
+*.spec
+belgeler/backup/

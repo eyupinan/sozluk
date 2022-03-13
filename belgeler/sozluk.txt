@@ -1,0 +1,2510 @@
+6137-revive-canlandırmak-0
+6971-gratitude-minnettarlık-1
+6956-express-ifade etmek,anlatmak,açıklamak-2
+6512-ensure-sağlamak,garantiye almak-3
+6308-unwisely-akılsızca-4
+6818-occasion-fırsat-5
+6586-contest-rekabet etmek,mücadele-6
+6501-consume-tüketmek,bitirmek-7
+6720-injury-yara-8
+7067-relish-tadına bakmak,tadını çıkarmak-9
+6522-spoil-yağma,ganimet-10
+7121-intent-niyet,amaç-11
+7087-intend-kastetmek,amaçlamak-12
+6770-spare-canını bağışlamak,esirgemek,yedek-13
+7234-pathetic-acınacak,zavallı-14
+7095-commit-söz vermek,suç işlemek-15
+6653-tend-hizmet etmek,eğilimli olmak-16
+6651-cough-öksürmek-17
+6935-reside-ikamet etmek,oturmak-18
+6752-confess-itiraf etmek-19
+6696-soil-lekelemek,kirletmek,toprak-20
+6723-presence-huzur,varlık,tavır-21
+6364-vengeance,revenge-intikam-22
+6759-brief-kısa-23
+6705-embrace-bağrına basmak,kucaklamak-24
+7208-stray-başıboş dolanmak,yoldan sapmak-25
+7389-upshot-sonuç-26
+7413-fairly-oldukça,dürüstçe-27
+6394-common-ortak,bilinen-28
+7013-mildly-kibarca-29
+6403-incredibly-inanılmaz şekilde-30
+8500-postpone,defer,put off-ertelemek-31
+7170-recommend-tavsiye etmek-32
+6115-exist-var olmak,yaşamak-33
+6436-requirement-ihtiyaç-34
+6618-beyond-ötesinde-35
+6803-contribute-katkı sağlamak-36
+6814-merely-sadece,yalnız-37
+6994-obtain-elde etmek-38
+6807-precision-hassasiyet-39
+6536-robust-güçlü-40
+6817-decay-çürüme,bozulma-41
+7334-concrete-somut,beton-42
+7230-actual-gerçek,asıl-43
+7111-bend-bükmek,viraj-44
+6969-denote-göstermek,belirtmek-45
+7485-convention-ortak düşünce,kongre-46
+7000-stall-oyalamak,geciktirmek-47
+6273-cover-kapak-48
+7201-raven-kuzgun-49
+6287-beat-dövmek,vurmak-50
+7149-upon-üzerine-51
+6165-anchor-çapa-52
+7105-fool-aptal-53
+7057-oar-kürek-54
+6657-treasure-hazine-55
+7319-indeed-gerçekten-56
+6863-forbid-yasaklamak-57
+6795-care-bakım-58
+6257-important-önemli-59
+6932-import-içe aktarmak-60
+6777-you are welcome-rica ederim-61
+6889-would like-istemek-62
+6674-cup-fincan-63
+6896-main course-ana yemek-64
+6376-sauce-sos-65
+6668-apricot-kayısı-66
+6606-surety-kefil-67
+7126-case-dava-68
+7096-order-sipariş,emir-69
+6896-obey-itaat etmek-70
+6789-divine-ilahi-71
+6315-punishment-ceza-72
+7033-sin-günah-73
+6103-soul-ruh-74
+6708-salute-selam-75
+6720-praise-övgü-76
+6190-summon-çağırmak-77
+6776-pleasure-zevk-78
+6240-temple-tapınak-79
+6682-several-birkaç-80
+7174-slave-köle-81
+6235-capture,catch-yakalamak,ele geçirmek-82
+7087-belong-ait-83
+6661-reward,award,prize-ödül-84
+7130-crew-mürettebat-85
+7631-expect-beklemek,ummak-86
+7041-doubt-şüphe-87
+7540-reach-ulaşmak-88
+7011-foreign-yabancı-89
+6768-mark-işaret,iz-90
+7486-bury-gömmek-91
+6485-exciting-heyecanlı-92
+6857-keep down-sakin ol-93
+6977-crowded-kalabalık-94
+6243-rent-kiralık-95
+6732-sale-satılık-96
+7441-cucumber-salatalık-97
+6762-key-anahtar-98
+7375-keyholder-anahtarlık-99
+6658-walk up-yaklaşmak-100
+6722-busy-meşgul-101
+6527-yet-henüz-102
+7107-education-eğitim-103
+7276-letter-mektup-104
+6631-word-sözcük,kelime-105
+7155-vocabulary-kelime bilgisi-106
+6973-spend-harcamak-107
+7051-shoulder-omuz-108
+6681-stomach-mide-109
+6135-eyewitness-görgü tanığı-110
+7476-witness-tanık-111
+6456-pain-ağrı-112
+6788-tear-koparmak-113
+7436-rice-pirinç-114
+6554-boast-övünmek-115
+6767-moan-sızlanmak-116
+7040-apologize-özür dilemek-117
+6748-gossip-dedikodu-118
+7213-expend,spend-harcamak-119
+7100-salary-maaş-120
+6796-male-erkek-121
+6483-falemate-ev arkadaşı-122
+6423-classmate-sınıf arkadaşı-123
+7112-cherry-kiraz-124
+6524-avoid-önlemek-125
+7051-call-aramak-126
+6188-eyewitness-görgü tanığı-127
+6882-pen-pilot kalem-128
+6393-variety-çeşitlilik-129
+6937-merciful-merhametli-130
+6647-scenery-manzara-131
+6361-wheat-buğday-132
+6561-accent-aksan,şive-133
+6934-empty-boş-134
+6284-bread-ekmek-135
+7301-snake-yılan-136
+6668-mind-akıl-137
+7145-warn-uyarmak-138
+6506-paint-boya,boyamak-139
+7024-advance-ilerlemek-140
+7500-agree,go along with-katılmak-141
+6595-airport-havalimanı-142
+6797-mount-dağ,tepe-143
+6898-embarrassed-utangaç-144
+6656-kiosk-büfe,köşk-145
+6436-what a shame-ne yazık-146
+7363-conduct-yürütmek-147
+6665-conversation-sohbet-148
+6759-completely-tamamen-149
+6692-researcher-araştırmacı-150
+6650-conflict-anlaşmazlık-151
+7223-curious-meraklı-152
+6968-discover,explore-keşfetmek-153
+6991-plunder-ganimet-154
+7223-condition-durum-155
+6686-regret-pişmanlık-156
+6314-responsible-sorumlu-157
+6923-trader-tüccar-158
+6967-straight-düz-159
+7122-grievous-ağır-160
+6386-volunteer-gönüllü-161
+6454-liberate-kurtarmak,serbest bırakmak-162
+6940-replicate-tekrarlamak,aynısını yapmak-163
+7099-layout-yerleşim-164
+6459-intense-şiddetli,yoğun,aşırı-165
+6734-observation-gözlem-166
+7995-discursive-tutarsız-167
+6269-obviously-belli ki,açıkça-168
+6839-correspond-karşılık-169
+7387-indicator-gösterge-170
+6835-leak-sızdırmak,sızıntı-171
+6939-mistakenly-yanlışlıkla-172
+6381-obsessed-kafayı takmış-173
+7235-assign-atamak-174
+6695-infer-anlam çıkarmak-175
+7336-explicitly-açıkça-176
+6851-clip-kırpmak-177
+7829-inaccurate-hatalı-178
+7137-dilation-genişleme-179
+6363-virtually-fiilen-180
+7093-demonstrate,indicate,show up-göstermek-181
+6810-approximately-yaklaşık olarak-182
+7490-opportunity-fırsat-183
+6859-desirable-çekici-184
+7489-strive-çabalamak-185
+7285-hurdle-engel,sorun-186
+6749-underlie-altında yatan-187
+6923-consulting-danışmanlık-188
+6653-negotiate-görüşmek-189
+6659-formidable-zorlu,müthiş-190
+7408-constitute-oluşturmak-191
+6666-competent-yetkili-192
+6883-debate-tartışma-193
+6564-trait-özellik-194
+6849-dismiss-reddetmek-195
+7445-persuade-ikna etmek,inandırmak-196
+7803-advocate-savunucu,savunmak-197
+6303-intimidate-yıldırmak,korkutmak-198
+7409-prosecution-soruşturma-199
+6534-bargain-pazarlık etmek,anlaşmak-200
+6473-swell-kabarma,kabarmak,şişmek-201
+7060-reproach-suçlamak,sitem etmek-202
+6817-stickler-inatçı-203
+6139-abundantly-bolca-204
+6682-aggravation-kızdırma,ciddileştirme-205
+6230-discrepancy,inconsistency,incoherence-tutarsızlık-206
+6554-insurance-sigorta-207
+7472-proceed-ilerlemek-208
+6716-measly-cimri,değersiz-209
+7106-exaggerate-abartmak-210
+7462-insistent-ısrarcı-211
+7711-courtesy-nezaket-212
+6845-stroll-gezinmek,dolaşmak,gezinti-213
+6552-carve-bıçaklamak,oymak-214
+6807-exhibit-sergilemek,teşhir etmek-215
+6807-deduce-sonuç çıkarmak-216
+7222-stain-leke-217
+6718-indict-suçlamak-218
+6799-publicity-tanıtım-219
+6736-hustle-acele ettirmek-220
+7072-scam-aldatmaca-221
+7266-insect-böcek-222
+7350-proportionality-orantılılık-223
+7362-sprain-burkmak-224
+6713-glance-bakış-225
+6685-ultimately-eninde sonunda-226
+7014-plead-savunmak-227
+6796-lousy-iğrenç,bitli-228
+6459-screw up-rezil etmek,batırmak-229
+7442-stash-saklamak-230
+6438-dough-para,hamur-231
+6570-dispatch-sevk etmek-232
+7315-invasion-saldırı,istila-233
+6875-sincerely-içtenlikle-234
+7161-clarify-açıklamak-235
+6523-essence-esas-236
+6975-van-kamyonet-237
+6479-miserable-sefil-238
+7102-heel-topuk-239
+7478-retainer-avans-240
+7050-devoted-sadık-241
+6715-consistent-tutarlı,istikrarlı-242
+7045-desist-vazgeçmek-243
+6383-brand-marka-244
+6374-blaze-yangın-245
+7026-injunction-mahkeme emri-246
+6572-firmly-sıkıca-247
+7361-intentionally-kasten-248
+7257-momentarily-anlık olarak-249
+7238-plugging-tıkama-250
+6656-elbow grease-el emeği-251
+7650-notice-farkına varmak-252
+6794-grab-kapmak,yakalamak-253
+6917-emphasize-vurgu yapmak-254
+7242-insight-sezme-255
+6706-secede-ayrılmak-256
+6217-invent-icat etmek-257
+6247-incoherent,inconsistent-tutarsız-258
+6470-oversight-dikkatsizlik-259
+6932-frustration-hayal kırıklığı-260
+7146-settling in-düzen kurmak-261
+7202-ambush-pusu-262
+6898-vacant-sahipsiz-263
+7509-crawl-sürünmek,yavaş yürümek-264
+6501-tuck-sokmak-265
+6646-debase-küçük düşürmek-266
+7150-rub off-dökülmek-267
+6133-precinct-bölge-268
+7516-solicitation-talep-269
+7264-premise-öncül-270
+7480-obligate-zorunlu-271
+7363-impose-empoze etmek,yüklemek-272
+7796-relevance-ilgi-273
+6717-frankly-açıkçası,açıkça-274
+7360-invoice-fatura-275
+6852-admission-kabul-276
+6487-conservative-muhafazakar,tutucu-277
+7241-complaint-şikayet-278
+7038-prohibition-yasak-279
+7021-quash-bastırmak-280
+6329-decade-onyıl-281
+6798-provision-hüküm,önlem-282
+7082-representative-temsilci-283
+6687-refer-başvurmak,bahsetmek-284
+7528-associate-ortak,üye-285
+6117-badger-rahat vermemek-286
+6441-gradually-kademeli olarak-287
+7112-wear down-yıpratmak-288
+7043-toss-atmak-289
+7089-diversify-çeşitlendirmek-290
+8500-sorely,violently-şiddetle-291
+6760-vendor-satıcı-292
+6766-cushy-rahat-293
+6869-occasionally-bazen-294
+7088-residency-ikamet-295
+6872-sentimental-duygusal-296
+6208-conclude-sonuçlandırmak-297
+7100-clinch-perçinlemek-298
+7709-confer-görüşmek-299
+6665-incidentally-tesadüfen-300
+7363-improvise-doğaçlama-301
+7077-initiative-girişim-302
+7083-extortion-gasp-303
+6984-felony-suç-304
+7015-mistreat-kötü davranmak-305
+6785-forgery-sahtecilik-306
+6707-harsh-sert-307
+7070-relieve-rahatlamak-308
+7004-plea-savunma-309
+7595-hassle-güçlük-310
+6748-endure,put up with-katlanmak-311
+6698-humane-insancıl-312
+6774-infraction-ihlal-313
+6744-asset-varlık-314
+6548-considerably-önemli ölçüde-315
+6738-pluck-yolmak-316
+6653-fondly-severek-317
+6862-deprive-yoksun bırakmak-318
+6779-conspiracy-komplo-319
+6666-scratch-kaşımak-320
+6816-incident-olay-321
+6445-verbose-ayrıntılı-322
+7192-comprehensive-kapsamlı-323
+7391-recipe-tarife-324
+6813-expose-ortaya çıkarmak,maruz bırakmak-325
+6929-internally-dahili olarak-326
+6775-trim-kırpmak-327
+6891-irrelevant-ilgisiz-328
+6971-lack-eksiklik-329
+7184-pristine-bozulmamış-330
+7448-sufficient-yeterli-331
+6291-omit-atlamak-332
+7088-clumsy-beceriksiz-333
+6288-abstraction-soyutlama-334
+6631-implicitly-dolaylı olarak-335
+7658-retain-muhafaza etmek-336
+6998-individual-bireysel-337
+9999-detach,cut off,distinguish,separate-ayırmak-338
+7284-persist-ısrar etmek-339
+9600-indicate,specify,point out-belirtmek-340
+8144-appropriate-uygun-341
+6163-overcome-üstesinden gelmek,aşmak-342
+7110-immutable-değişmez-343
+6705-duplicate-kopya,çift-344
+6835-demise-ölüm-345
+6629-remorse-vicdan azabı-346
+7428-consist-oluşmak-347
+6461-enhance-geliştirmek-348
+6930-mass-kitle-349
+6619-convince-ikna etmek-350
+7223-method-yöntem-351
+7295-concisely-kısaca-352
+6668-quantity-miktar-353
+6926-ditch-terketmek-354
+6792-adequately-yeterince-355
+8660-negate-olumsuzlamak,reddetmek-356
+6845-interpret-yorumlamak-357
+6800-representative-temsilci-358
+7407-sustainable-sürdürülebilir-359
+6696-fraction-kesir-360
+6802-stimulate-canlandırmak,uyarmak-361
+6531-cluster-küme-362
+6897-proximity-yakınlık-363
+8016-realize-farkına varmak,kavramak-364
+7099-conventional-geleneksel-365
+6882-redundancy-fazlalık-366
+6820-significant-önemli,anlamlı-367
+6197-utilize-kullanmak-368
+7388-attach-eklemek,takmak-369
+7066-discard-atmak-370
+6651-obligate-mecbur etmek-371
+6961-association-bağlantı-372
+6409-absence-yokluk-373
+7517-scratch-tırmalamak-374
+6665-precisely-tam olarak,kesin olarak-375
+7362-assure-sağlamak,temin etmek-376
+6741-feasible-mümkün-377
+6900-elevate-yükseltmek-378
+6755-sufficient-yeterli-379
+6767-surveillance,oversight,observation-gözetim-380
+6572-spur on-teşvik etmek-381
+6478-ease-kolaylaştırmak,kolaylık-382
+6906-reassure-güvence vermek-383
+7050-probe-incelemek-384
+6592-vulnerability-güvenlik açığı-385
+6803-appeal-başvuru-386
+6878-crucial-çok önemli-387
+6595-suffice-yetmek-388
+7048-interval-aralık-389
+7097-overlook-gözden kaçırmak,görmezden gelmek-390
+7027-sorely,violently,strongly-muazzam-391
+6902-weep-ağlamak-392
+7431-therefore,thats why-bu yüzden-393
+6356-get on-binmek-394
+6856-get up-uyanmak-395
+7524-through-arasından,içinden,bir uçtan bir uca-396
+6847-right away-derhal-397
+6791-in the end,at last,finally-sonunda-398
+6291-faint-baygın-399
+7254-eventually-sonuçta,sonunda-400
+6083-inevitably-kaçınılmaz olarak-401
+6573-lean-eğilmek-402
+7286-specifically-özellikle-403
+7066-inquisitive-meraklı,araştırmacı-404
+6567-gratify-tatmin etmek-405
+7957-signify-belirtmek-406
+6458-approach-yaklaşmak-407
+7390-turn into-dönüşmek-408
+6468-pursue-takip etmek-409
+7156-assist-yardım etmek-410
+6912-compensate-zararı karşılamak-411
+6427-propose,suggest-önermek,teklif etmek-412
+6434-concur-hemfikir olmak-413
+6655-occur-meydana gelmek,oluşmak-414
+7139-lead-öncülük etmek-415
+7209-hold-tutmak-416
+6979-supply-tedarik,sağlamak-417
+6716-compose-oluşturmak-418
+6710-mandatory,compulsory-zorunlu-419
+6848-crush-ezmek-420
+7245-delay-gecikme,geciktirmek-421
+6699-fall apart-darmadağın-422
+6919-back up-destek olmak-423
+6953-construct-inşa etmek-424
+6447-put on-giymek-425
+6644-maintain,preserve-sürdürmek,korumak-426
+6682-assume,presume-varsaymak-427
+6367-vocalize-seslendirmek-428
+7298-appoint-tayin etmek-429
+6896-charge-şarj etmek-430
+7027-measure-ölçmek-431
+7322-urge-dürtü-432
+7083-elect-seçmek-433
+6986-blow-darbe-434
+7655-engage-tutmak-435
+7339-pursue-takip etmek-436
+6831-incorporate-dahil etmek,içermek,anonim-437
+6545-blend-harman,karıştırmak-438
+6884-curly-kıvırcık-439
+6972-environmental-çevresel-440
+6950-fasionable-moda-441
+7584-rogue-haydut,dolandırıcı-442
+7013-notify,report,inform-bildirmek-443
+6750-imitate-taklit etmek-444
+7313-impact-etki,darbe-445
+7319-brave-cesur-446
+6383-brush-fırça-447
+6891-take out-dışarı çıkarmak-448
+6264-slide-kaydırmak-449
+7479-worry-endişelenmek-450
+6885-shiver-ürpermek-451
+7002-irrational-mantıksız-452
+7352-relate-ilgili olmak-453
+6926-link-bağlantı-454
+7356-subconscious-bilinçaltı-455
+6927-behavioral-davranışsal-456
+6712-approach-yaklaşım,yaklaşmak-457
+6788-pull out-çıkarmak-458
+6943-pull-çekmek-459
+6654-manage to-başarmak-460
+7724-come back-geri gelmek-461
+6803-far away-uzakta-462
+6803-about-yaklaşık-463
+6810-refuse-reddetmek-464
+6538-tiny-çok küçük,minik-465
+6656-get into-içine girmek-466
+6934-also,as well-ayrıca,aynı zamanda-467
+7360-just as,just like-tıpkı-468
+6852-even so,still-yinede-469
+6831-go for a walk,take a walk-yürüyüşe çıkmak-470
+7041-remind-hatırlatmak-471
+6807-consequently-sonuç olarak-472
+6626-sequently-sırayla-473
+6236-amuse-eğlendirmek-474
+7174-retrace-yeniden izlemek-475
+7781-regress-geri çekilmek,geri gitmek-476
+6715-disctrict-ilçe-477
+6586-vicinity-yakınlarda-478
+7146-unfasten-çözmek,çözülmek-479
+6598-publicly-alenen-480
+7566-accessible-ulaşılabilir-481
+7759-compromise-uzlaşma,anlaşmaya varmak-482
+6993-advert-ilan,reklam-483
+6471-discount-indirim-484
+7387-preference-tercih-485
+7541-privacy-gizlilik-486
+7137-possession-kontrol altına alma-487
+6346-mostly-çoğunlukla-488
+6584-takeaway-paket servis-489
+6880-track-takip etmek-490
+6655-consent-razı olmak-491
+7021-breach-ihlal-492
+7437-acquire-elde etmek,kazanmak-493
+6828-regulation-düzenleme-494
+6472-participate,attend-katılmak-495
+7063-exclude-hariç tutmak,dışlamak-496
+6842-deport-uzaklaştırmak,sınır dışı edilmek-497
+7918-cuddle up-kucaklaşmak-498
+6787-yell,shout-bağırmak-499
+6564-unwelcome-istenmeyen,hoş karşılanmayan-500
+6871-spay-kısırlaştırmak-501
+6864-however-ancak-502
+7732-ignore-görmezden gelmek,duymazdan gelmek-503
+7140-keep-tutmak,devam ettirmek-504
+8591-be sure,make sure-emin olmak-505
+6552-right next-hemen yanındaki-506
+6413-firstly-öncelikle-507
+7626-detain-alıkoymak-508
+7356-poverty-yoksulluk-509
+6371-according to-göre-510
+6681-influence-etki,etkilemek-511
+7816-even so-yine de-512
+7103-partly,partially-kısmen-513
+6845-of course,surely-elbette-514
+7235-find out-bulmak-515
+6782-regular-düzenli,normal-516
+6943-anyway-her neyse,nasıl olsa-517
+6706-talk about,mention-bahsetmek-518
+7324-set off,depart,take the road-yola çıkmak-519
+6811-by now,until now,yet-şimdiye kadar-520
+6750-particularly,in particular-özellikle-521
+7100-chivalrous-kibar-522
+7195-even though,although-rağmen-523
+7268-even though,even if,even so-olsa bile-524
+7206-watch out-dikkat etmek-525
+6784-leave-ayrılmak,bırakmak,terketmek-526
+7033-rather than-ziyade-527
+7028-narrow,narrow down-daralmak-528
+6742-remain-kalmak,sürdürmek-529
+7107-make up-uydurmak-530
+7380-clearing-açıklık alan-531
+7096-reply-yanıtlamak,cevap vermek-532
+6750-along-boyunca-533
+6690-mean-anlamına gelmek,kastetmek-534
+6330-choose,prefer-tercih etmek,yeğlemek-535
+6548-a bit,a little bit-biraz-536
+7638-reinforce-pekiştirmek,güçlendirmek,sağlamlaştırmak-537
+7049-suit-takım elbise,uymak-538
+7307-anymore-artık-539
+6788-thanks to-sayesinde-540
+7121-due to,because of-dolayı,yüzünden-541
+7456-efficient-verimli,etkili-542
+6802-cause-sebep olmak,neden olmak-543
+6731-replace-değiştirmek,yerine koymak,yerini almak-544
+7693-go with-uymak,birlikte gitmek-545
+7150-in person,personally-şahsen,bizzat-546
+7098-innately-doğuştan-547
+6389-go well-iyi gitmek-548
+7128-how about-ne dersin-549
+7489-quit,go out-çıkmak-550
+6685-after this-bundan sonra-551
+6253-grow-büyümek,gelişmek-552
+6939-smell-koklamak-553
+6805-be suprized,be amazed-şaşırmak-554
+6802-as usual-herzamanki gibi-555
+6909-unfortunately,unluckily-ne yazık ki,malesef-556
+7102-one by one-tek tek-557
+7473-put-yerleştirmek,koymak,sokmak-558
+7078-recycle-geri dönüştürmek-559
+6720-renew,modernize-yenilemek-560
+6927-renewed,reconditioned-yenilenmiş-561
+7644-exactly,completely-tam olarak-562
+7373-extensively-kapsamlı olarak-563
+6817-reliable-güvenilir-564
+6936-i wonder-acaba,merak ediyorum-565
+7207-likely-olası,muhtemel-566
+7519-make fun of-dalga geçmek-567
+6673-appointment-randevu-568
+7699-sailor-denizci-569
+6946-coast-sahil,kıyı-570
+7325-end up-düşmek-571
+6233-nearly,almost-neredeyse-572
+6725-inherit-miras almak-573
+7016-appearance-görünüm,görünüş-574
+6921-fail-başaramamak,başarısız olmak-575
+7653-for always-herzaman için-576
+6489-repeat-tekrarlamak-577
+6830-let,allow-izin vermek-578
+7693-so far-şimdiye kadar-579
+6773-dense-yoğun-580
+6772-clench,squeeze-sıkmak-581
+7761-aspire-istemek,can atmak-582
+7120-essentially-esasen-583
+7520-actually-aslında-584
+6839-interrogate-sorgulamak-585
+7576-instability-istikrarsızlık-586
+7851-negligible-ihmal edilebilir-587
+7307-proportional-orantılı-588
+7100-exceptional-olağanüstü-589
+7233-involve-kapsamak-590
+7479-consecutive-ardışık,ardarda-591
+6648-unfold-açılmak-592
+6322-liable-sorumlu,yükümlü-593
+6772-commonplace-sıradan-594
+6534-clung-sarılmak-595
+7530-dispose-elden çıkarmak,düzenlemek,kullanmak-596
+7054-genuinely-gerçekten-597
+6835-successor-varis-598
+9999-vague,indefinite,ambiguous,indistinct,obscure,equivocal-belirsiz-599
+6649-convenience-kolaylık-600
+6969-encounter-karşılaşmak-601
+6700-conversely-tersine-602
+6641-scatter-dağıtmak,saçmak-603
+7165-immersion-daldırma-604
+6488-risk,danger,jeopardy-tehlike-605
+6805-achivement-başarı-606
+7022-daunting-göz korkutucu-607
+6691-daunt-yıldırmak-608
+6234-preferable-tercih edilebilir-609
+7055-relative-akraba,bağıl-610
+6600-reliable-güvenilir-611
+6993-inflate-şişirmek-612
+6947-erupt-patlamak-613
+7227-reconcil-uzlaştırmak-614
+7305-persuasively-ikna edici bir şekilde-615
+7305-decipherment-deşifre-616
+6906-novel-roman-617
+6932-illustrate-gözünde canlandırmak-618
+7005-struggle-çaba,mücadele etmek-619
+6676-deceit-aldatma,hile-620
+7375-obligation-yükümlülük-621
+6729-alteration-değişiklik-622
+7668-disturbance-rahatsızlık-623
+6902-concern-kaygı-624
+8420-susceptible-duyarlı-625
+7460-exemption-muhafiyet-626
+7223-eager-istekli-627
+7212-disseminate-yaymak-628
+7185-consequently-sonuç olarak-629
+6834-selectively-seçici olarak-630
+6925-superficially-yüzeysel olarak-631
+6854-revolt-ayaklanmak,isyan-632
+7177-propose-teklif etmek,önermek-633
+7188-settle-yerleşmek-634
+6700-particularly-özellikle de-635
+6377-fragile-kırılgan-636
+6543-compression-sıkıştırma-637
+7108-exposure-teşhir,maruz kalmak-638
+7224-appearance-dış görünüş-639
+6609-apparent-belirgin-640
+7240-responsive-duyarlı-641
+6879-consequtively-art arda-642
+6879-pitifully-acınası-643
+6872-dimmed-karartılmış-644
+6785-circumstance-durum-645
+6714-steady-sabit-646
+6926-comparatively-karşılaştırmalı olarak,nispeten-647
+7203-complexity-karmaşıklık-648
+6519-readily-kolayca-649
+6673-adjust-ayarlamak-650
+6718-substantial-varlıklı,önemli-651
+6720-credibility-güvenilirlik-652
+6661-respectability-saygınlık-653
+7026-conductivity-iletkenlik-654
+6631-sustainability-sürdürülebilirlik-655
+6866-urgently-acilen-656
+6794-rapidly-hızlıca-657
+6756-compensate-karşılamak-658
+7371-intake-giriş-659
+6872-informal-gayri resmi-660
+7269-settlement-yerleştirme-661
+7189-involvement-katılım-662
+6387-avoidance-kaçınma-663
+6965-sizeable-büyükçe-664
+7227-recurrent-tekrarlayan-665
+7018-extensive-yaygın,kapsamlı,geniş-666
+6732-excessively-aşırı-667
+6778-arouse-uyandırmak duygu-668
+7392-subsequent-sonraki-669
+7067-elective-seçmeli-670
+7154-disorder-düzensizlik-671
+6810-predictive-tahmin edici-672
+7355-heritage-miras-673
+6870-institution-kurum-674
+6971-negligently-ihmalkarca-675
+7079-rarely-nadiren-676
+7097-respectively-sırasıyla-677
+7360-innovation-yenilik-678
+6650-amplification-amplifikasyon-679
+6738-implicate-ima etmek-680
+6737-interact-etkileşim-681
+6676-inhabit-yaşamak-682
+7137-principally-prensip olarak-683
+6847-disrupt-bozmak-684
+7116-fascinating-büyüleyici-685
+6769-confidential-gizli-686
+6518-essential-gerekli-687
+6904-contract-sözleşme-688
+6310-even more-hatta daha fazla-689
+6877-tentative-geçici-690
+6675-keen-hevesli-691
+7290-assessment-değerlendirme-692
+6968-scarcely-hemen hemen,neredeyse,ucu ucuna-693
+7679-initially-ilk olarak-694
+7505-prevent-önlemek-695
+7023-tentatively-geçici olarak-696
+7235-desperately-umutsuzca-697
+6689-clarity-açıklık-698
+7178-reliance-güven-699
+7021-breakdown-Yıkmak-700
+6903-degraded-bozulmuş-701
+6652-barely-zar zor-702
+6352-consolidate-konsolide etmek-703
+6831-impair-bozmak,zayıflatmak-704
+7074-compel-zorlamak-705
+7326-reduce-azaltmak-706
+7234-conductive-iletken-707
+7109-indulgent-anlayışlı-708
+6698-exclusive-özel-709
+6836-relevance-alaka-710
+7705-perception-algı-711
+6912-establishment-kuruluş-712
+7019-improvement-Gelişme-713
+6941-prevalent-yaygın-714
+7397-subjective-öznel-715
+7092-discretion-takdir yetkisi-716
+8505-compliance-uyma-717
+7543-intention-niyet-718
+6681-downward-aşağı-719
+7097-conveniently-uygun olarak,rahatlıkla-720
+6730-influentially-etkili bir şekilde-721
+6646-fundamentally-temelde-722
+9600-induce-ikna etmek,sebep olmak,teşvik etmek-723
+6795-attribute-bağlanmak-724
+7242-conclusively-kesin olarak-725
+6952-recently-son günlerde-726
+7033-unlikely-olası olmayan-727
+7255-provisional-geçici-728
+6864-abandon-terk etmek-729
+6453-reserve-rezerv-730
+6983-exclude-hariç tutmak-731
+6209-pursuit-kovalama-732
+7551-controversy-tartışma-733
+6415-objection-itiraz-734
+6838-affordable-ekonomik-735
+6467-sensible-mantıklı-736
+7078-detriment-Aleyhine-737
+6831-preference-tercih-738
+7521-cohesion-uyum-739
+6880-pursue-izlemek-740
+6940-uphold-desteklemek-741
+6912-denounce-kınamak-742
+6938-defiantly-meydan okurcasına-743
+6677-suitably-uygun şekilde-744
+7212-extremely-aşırı derecede-745
+6553-saturate-doyurmak-746
+7232-coincidence-tesadüf-747
+7253-correlation-korelasyon-748
+7109-consideration-düşünce-749
+7537-interpretation-tercüme-750
+6938-determination-belirleme-751
+7487-sullenly-somurtkan-752
+6787-ingeniously-ustaca-753
+7398-pretentious-iddialı-754
+7076-satisfactorily-tatmin edici biçimde-755
+7357-decisive-belirleyici-756
+6737-compulsive-zorlayıcı,takıntılı-757
+7221-alien-yabancı-758
+7266-controversial-kontrollü,tartışmalı-759
+6714-contented-memnun-760
+6625-lucid-berrak-761
+7037-disband-dağılmak-762
+7369-venture-girişim,risk,tehlikeye atılmak-763
+6922-migration-göç-764
+6833-infirmity-sakatlık-765
+6632-exploit-faydalanmak-766
+6748-grant-hibe,bağışlamak-767
+7353-abolish-ortadan kaldırmak-768
+7015-nominally-nominal olarak-769
+7285-tightly-sıkıca-770
+6874-hesitation-tereddüt-771
+7019-dedication-özveri-772
+8031-spectacle-gösteri-773
+6647-factual-gerçek-774
+6990-distract-dikkatini dağıtmak-775
+6774-vary-çeşitli-776
+7228-dismay-can sıkmak-777
+6725-quotation-alıntı yapmak-778
+7014-contemporary-modern-779
+6719-bearable-katlanılabilir-780
+6992-vulnerable-hassas-781
+6965-loudly-yüksek sesle-782
+7084-sufficency-yeterlilik-783
+6976-moderate-ılıman-784
+7110-qualitative-nitel-785
+7192-collectively-topluca-786
+7032-dramatically-dramatik olarak-787
+6967-candidate-aday-788
+7313-emission-emisyon-789
+6940-tackle-mücadele etmek,ele almak,uğraşmak-790
+7282-marginally-marjinal olarak-791
+6647-drastically-büyük ölçüde-792
+6257-implicit-üstü kapalı-793
+7760-mutual-karşılıklı-794
+6901-notable-dikkate değer-795
+6540-profound-Engin-796
+7136-affliction-ızdırap-797
+6176-diagnose-teşhis koymak-798
+7005-remedy-çare-799
+6680-densely-yoğun-800
+6817-casually-gelişigüzel-801
+6832-attentiveness-dikkat-802
+6829-discreet-sağduyulu-803
+7404-distasteful-tatsız-804
+6533-inhospitable-misafirperver olmayan-805
+6843-solely-yalnızca-806
+7313-progressively-giderek-807
+6984-intersection-kavşak-808
+7087-distraction-dikkati başka yöne çekme-809
+6728-completion-tamamlama-810
+6285-impartially-tarafsız olarak-811
+6795-impulsively-dürtüsel olarak-812
+7316-perishable-çabuk bozulan-813
+6910-deliberate-kasten,kasıtlı,planlı-814
+6728-subtle-hemen göze çarpmayan-815
+7728-discredit-gözden düşürmek-816
+8094-diversion-saptırma-817
+7725-distinction-ayrım-818
+6715-defect-kusur-819
+7503-displacement-yer değiştirme-820
+8054-register-kaydetmek-821
+6685-suspend-askıya almak-822
+6798-lease-kiralama-823
+6840-constitution-anayasa-824
+6698-offensively-saldırganca-825
+6889-worthly-değerli-826
+6800-determine-belirlemek-827
+7309-engaged-nişanlı-828
+6993-vaguely-belli belirsiz-829
+6694-convert-dönüştürmek-830
+7097-absolutely-kesinlikle-831
+7320-entitle-hak-832
+6780-predominant-baskın-833
+7373-allocate-tahsis etmek-834
+7313-ingredient-bileşen-835
+6712-confidently-kendine güvenerek-836
+6889-resume-devam et-837
+6328-reinstate-eski durumuna getirmek-838
+6489-recreate-yeniden yaratmak-839
+6925-coherent-tutarlı-840
+7606-inadequacy-yetersizlik-841
+6867-relentless-acımasız-842
+7287-resentful-kırgın-843
+6947-exert-efor sarf etmek,kullanmak yetki-844
+7256-potentially-potansiyel olarak-845
+6549-forcefully-zorla-846
+6125-reputation-itibar-847
+7762-incompetence-beceriksizlik-848
+6551-participation-katılım-849
+7533-despair-çaresizlik-850
+6915-certainty-kesinlik-851
+7053-ingenuity-yaratıcılık-852
+6923-prospective-muhtemel-853
+7414-outlaw-haydut-854
+6915-pleasantly-hoş bir şekilde-855
+7089-conversion-dönüştürmek-856
+7327-recession-durgunluk-857
+7210-inadequately-yetersiz-858
+7038-accelerate-hızlanmak-859
+6719-reversible-tersine çevrilebilir-860
+6890-deception-aldatma-861
+6700-arguably-tartışılır biçimde-862
+7627-equvalently-eşdeğer olarak-863
+6789-properly-uygun şekilde-864
+6648-familiarly-tanıdıkça-865
+7079-conventionally-geleneksel olarak-866
+7334-allowance-ödenek-867
+7196-impressive-etkileyici-868
+7223-look back-geçmişe bakmak-869
+6754-turn back-geri dön-870
+6724-wait for-bekle-871
+6706-pull up-yukarı çekmek-872
+7181-rely on-güvenmek-873
+6878-take to-almak-874
+6687-try on-denemek-875
+7667-close down-kapatmak-876
+7336-make out-anlam çıkarmak-877
+6616-force out-zorlamak-878
+6754-sort out-problemi çözmek-879
+6807-play up-daha yüksek sesle çalmak-880
+7270-come from-dan geliyorum-881
+7426-get rid of-kurtulmak-882
+7369-make do with-yapmak-883
+6792-turn down-kısmak-884
+6481-throw up-kusmak-885
+7064-look out for-dikkat etmek-886
+6797-make up to-telafi etmek-887
+6938-run out-tükenmek-888
+6784-hold up-gecikmek-889
+6808-deal with-uğraşmak-890
+6701-write out-yaz-891
+7188-get off-inmek-892
+6849-come up with-ortaya atmak-893
+6859-step down-inmek-894
+6631-turn over-devir-895
+6739-take over-devralmak-896
+6871-get in-içeri girmek-897
+7088-hold up-gecikmek-898
+7118-break into-girmek-899
+6741-lay out-yerleşim-900
+7598-come across-karşılaşmak-901
+7190-clear up-temizlemek-902
+7393-slow down-yavaşlatmak-903
+6770-turn up-açmak-904
+6854-wipe out-silip yoketmek-905
+6831-run down-bitkin-906
+6968-cope with-baş etmek-907
+6306-give up-pes etmek-908
+6727-lead to-yol açmak-909
+7477-depend on-bağlıdır,bağlı olmak-910
+6825-put forward-ileri sürmek-911
+7443-care for-ilgilenmek-912
+6978-set aside-kenara koymak-913
+7190-figure out-halletmek-914
+6757-go for-gitmek-915
+6697-set up-kurmak-916
+6689-connect with-ile bağlantı-917
+7589-keep up-sürdürmek-918
+6862-bring over-getirmek-919
+7104-take place-yer almak-920
+7085-settle down-durulmak-921
+6655-catch up-yetişmek-922
+7102-take along-yanına almak-923
+7100-take off-çıkarmak-924
+6675-go up against-karşı çıkmak-925
+6648-hang around-takılmak-926
+6808-lost in-kayıp olmak,kaybolmak-927
+6827-work at-çalışmak-928
+6644-work through-çalışmak-929
+6885-build up-kurmak-930
+6547-move in-taşınmak-931
+6695-stand for-dayanmak-932
+7826-carry out-gerçekleştirmek-933
+7221-try on-denemek-934
+7318-drop out-bırakmak-935
+7080-bring about-neden olmak-936
+6663-write up-yazmak-937
+6866-keep away-uzak durun-938
+6569-look after-ilgilenmek-939
+7066-hold onto-tutunmak,bırakmamak-940
+6658-draw out-çekmek-941
+7662-throw into-içine atmak-942
+7232-bring up-konuyu açmak-943
+6630-lose out-kaybetmek-944
+7788-go through-geçmek-945
+6643-go by-yanından geçmek-946
+6897-spread out-yayılmak-947
+6722-fall into-içine düşmek-948
+6646-deal with-uğraşmak-949
+6423-pass up-geçmek-950
+6669-lay down-yatırmak-951
+7039-tidy up-toparlamak-952
+7550-close up-kapatmak-953
+7107-sign off-bitirmek-954
+7515-a lot-çok fazla-955
+6508-utterly-tamamen-956
+6715-totally-tamamen-957
+7533-specialise-uzmanlaşmak-958
+8077-suffer from-acı çekmek-959
+6395-go through-geçmek-960
+7446-as soon as-hemen,*ince-961
+6566-fall off,fall down-düşmek-962
+6887-oppose-karşı çıkmak-963
+6430-side-yan-964
+6580-among-arasında-965
+6762-former-önceki-966
+6445-raise-artırmak-967
+6913-decide-karar ver-968
+6923-produce-üretmek-969
+6317-floor-zemin-970
+6440-seek-aramak,çabalamak-971
+7390-certainly-kesinlikle-972
+6530-growth-büyüme-973
+6963-amount-miktar-974
+7365-lay-sermek-975
+7109-feeling-duygu-976
+6967-prove-ispat etmek-977
+6596-range-aralık-978
+6680-improve-geliştirmek-979
+6662-claim-iddia-980
+7355-hopefully-inşallah-981
+6797-interaction-etkileşim-982
+7571-mixed-karışık-983
+7038-originally-aslında-984
+6780-roughly-kabaca,aşağı yukarı-985
+7535-significantly-önemli ölçüde-986
+8117-substance-madde-987
+7030-anticipate,estimate,forecast,predict-tahmin etmek-988
+6783-annual-yıllık-989
+6378-tension-tansiyon-990
+7100-anxiety-endişe-991
+6571-awareness-farkındalık-992
+5555-coat,jacket-ceket-993
+7237-combine-birleştirmek-994
+6308-equvalent-eşdeğer-995
+6556-hang-asmak-996
+6666-initial-ilk-997
+6636-lecture-ders-998
+6912-schedule-takvim-999
+6667-tie-bağlamak-1000
+6567-tip-ipucu-1001
+6809-aggressive-agresif-1002
+6630-apart-ayrı-1003
+6723-curve-eğri-1004
+7045-distribute-dağıtmak-1005
+7443-excitement-heyecanlanmak-1006
+7518-gather-toplamak-1007
+6314-patient-hasta-1008
+6649-phrase-ifade etmek-1009
+6145-presentation-sunum-1010
+7131-prior-öncelikli-1011
+6907-reasonable-mantıklı-1012
+6570-reflection-refleks-1013
+6228-relief-rahatlama-1014
+7223-revenue-gelir-1015
+6866-rough-kaba-1016
+6807-strike-vuruş-1017
+6933-suddenly-birden-1018
+6921-adapt-adapte olmak-1019
+6055-arise-kalkmak,ortaya çıkmak,meydana gelmek-1020
+6668-altogether-tamamen-1021
+6702-aside-kenara-1022
+7109-bunch-demet-1023
+6410-civil-sivil-1024
+6698-deeply-derinden-1025
+7116-definitely-kesinlikle-1026
+7382-deliberately-kasten-1027
+6454-drawing-resim çizme-1028
+7044-draft-taslak-1029
+7516-dust-toz-1030
+6718-employ-kullanmak-1031
+7417-encouraging-teşvik edici-1032
+6753-external-harici-1033
+7505-habit-alışkanlık-1034
+6434-hardly-zorlukla-1035
+8952-judgment-yargı-1036
+7585-justify-aklamak,savunmak-1037
+6799-mess-karışıklık-1038
+7494-mud-çamur-1039
+6374-nasty-edepsiz-1040
+6787-ordinary-sıradan-1041
+6909-ought-gerekir-1042
+7250-pin,attach-tutturmak-1043
+6982-possess-elinde bulundurmak-1044
+6680-split-bölmek-1045
+6659-strain-gerginlik-1046
+6708-terribly-korkunç-1047
+7223-tight-sıkı-1048
+6699-visible-gözle görülür-1049
+6621-accident-kaza-1050
+6214-arrival-varış-1051
+7019-assumption-varsayım-1052
+6874-blame-suçlamak-1053
+7007-closet-dolap-1054
+6085-clue-ip-1055
+7073-committee-kurul-1056
+7730-compete-rekabet etmek-1057
+6681-concerning-ilişkin-1058
+7064-desperate-çaresiz-1059
+7320-enthusiasm-heves-1060
+8500-extend,stretch-uzatmak-1061
+7392-fold-katlamak-1062
+7002-glove-eldiven-1063
+7157-hall-salon-1064
+6739-instruction-talimat-1065
+6811-investigate-incelemek-1066
+6736-maintenance-bakım-1067
+6508-pace-adımlamak-1068
+7339-peak-doruğa ulaşmak-1069
+7511-permit-izin vermek-1070
+7328-proposal-teklif-1071
+6950-provided-tedarik edilen-1072
+6656-resolve-çözmek-1073
+6695-revolution-devrim-1074
+6840-rid-kurtulmak-1075
+6736-roll-rulo-1076
+7223-sink-lavabo-1077
+7046-slip-kayma-1078
+7268-suspect-şüphelenmek-1079
+7463-twist-büküm-1080
+7160-yard-avlu-1081
+7432-abroad-yurt dışına-1082
+6705-anxious-endişeli-1083
+6783-arrive-varmak-1084
+6805-bite-ısırmak-1085
+7109-breath-nefes-1086
+6450-briefly-kısaca-1087
+6981-candle-mum-1088
+6843-clerk-katip-1089
+6296-cloud-bulut-1090
+6565-concentrate-yoğunlaşmak-1091
+6663-conclusion-sonuç-1092
+6659-contribution-katkı-1093
+7251-disagree-aynı fikirde olmamak-1094
+6561-downtown-şehir merkezi-1095
+7208-establish-kurmak-1096
+7253-grand-büyük-1097
+6864-grocery-bakkal-1098
+6616-harm-zarar-1099
+7295-imply-ima etmek-1100
+7386-impression-izlenim-1101
+8002-independence-bağımsızlık-1102
+7695-inspection-inceleme-1103
+7070-ladder-merdiven-1104
+6820-knee-diz-1105
+7245-loose-gevşetmek-1106
+7150-pension-emeklilik-1107
+6985-pleasant-güzel-1108
+6681-profession-uzmanlık alanı-1109
+6672-prompt-çabuk-1110
+6879-rush-acele etmek-1111
+6675-ruin-harabe-1112
+6761-shake-sallamak-1113
+6821-shift-vardiya,ötelemek-1114
+7249-skirt-etek-1115
+7387-slice-dilim-1116
+6789-stroke-felç-1117
+6954-surround-çevrelemek-1118
+6823-tune-melodi-1119
+7372-worried-endişeli-1120
+6829-accuse-suçlamak-1121
+6547-admire-beğenmek-1122
+7031-adopt-evlat edinmek-1123
+6348-affair-mesele-1124
+6740-ambition-tutku-1125
+6541-announce-duyurmak-1126
+7231-approve-onaylamak-1127
+6878-assignment-atama-1128
+7090-bid-teklif etmek-1129
+6668-bitter-acı-1130
+6537-cheek-yanak-1131
+7112-comfort-konfor-1132
+6920-confident-kendinden emin-1133
+8038-conscious-bilinçli-1134
+6736-decent-yeterli,terbiyeli-1135
+6498-departure-kalkış-1136
+6860-entrance-giriş-1137
+6872-fault-arıza-1138
+6980-grass-çimen-1139
+7236-hesitate-tereddüt etmek-1140
+6916-indication-gösterge-1141
+6803-invite-davet et-1142
+6125-lip-dudak-1143
+6732-pretend-numara yapmak-1144
+6905-previously-önceden-1145
+6391-punch-yumruk-1146
+7059-recognition-tanıma-1147
+7108-rub-ovmak-1148
+7238-sail-denize açılmak-1149
+8032-rip-sökmek,yırtmak-1150
+6654-resort-dinlenme tesisi-1151
+7302-slight-hafif-1152
+6811-tale-masal-1153
+7031-truck-kamyon-1154
+6682-whoever-her kim-1155
+6843-wrap-sargı,sarmak-1156
+6848-vouch-kefil-1157
+7457-sweat-ter-1158
+6925-enroll-kaydolmak,yazılmak-1159
+7112-revoke,withdraw-geri çekmek-1160
+7527-depict-göstermek,anlatmak-1161
+7318-abrogate-yürürlükten kaldırmak-1162
+7300-open minded-açık görüşlü-1163
+6948-tax exemption-vergi muafiyeti-1164
+6709-abruptly-aniden-1165
+7521-absolute-mutlak-1166
+7103-abstract-öz-1167
+7198-absurd-absürt-1168
+6654-abundant-bolluk-1169
+7690-accomplish-sonuçlandırmak-1170
+7830-accord-anlaşma-1171
+7666-accordingly-buna göre-1172
+6538-accountant-muhasebeci-1173
+6969-accurate-kesin,doğru-1174
+6908-accused-sanık-1175
+6796-accustomed-alışmış-1176
+7545-achieve-başarmak-1177
+7003-acknowledgement-teşekkür-1178
+6615-acute-akut-1179
+6251-addicted-bağımlı-1180
+7217-addiction-bağımlılık-1181
+6185-additional-ek olarak-1182
+7547-adequate-yeterli-1183
+7172-adjustable-ayarlanabilir-1184
+6647-administrate-yönetmek-1185
+7484-admirable-takdire şayan-1186
+7086-advanced-ileri-1187
+7143-affable-nazik-1188
+6493-affectionate-sevecen-1189
+6950-affluent-zengin-1190
+7361-agreeable-hoş-1191
+6794-aid-yardım-1192
+6893-aisle-koridor-1193
+7070-alliance-ittifak-1194
+6586-ally-müttefik-1195
+6649-amend-değiştirmek-1196
+7295-ample-bol-1197
+7137-apparel-giysi-1198
+7064-appetite-iştah-1199
+7495-appreciate-takdirle karşılamak-1200
+6639-apprehension-endişe-1201
+7142-approval-onay-1202
+7172-argue-tartışmak-1203
+7237-argument-argüman-1204
+6895-article-makale-1205
+6714-artisan-zanaatkar-1206
+6610-ashamed-utanmış-1207
+7227-assassinate-suikast düzenlemek-1208
+6661-astonish-şaşırtmak,şaşkın-1209
+6829-attack-saldırı-1210
+7031-attainment-ulaşma-1211
+6802-attempt-girişim-1212
+7096-attract-çekmek-1213
+6740-available-mevcut-1214
+8363-avidity-hırs-1215
+6295-beneficial-yararlı-1216
+6738-benefit-fayda-1217
+7740-blink-göz kırpmak-1218
+6655-bloom-çiçek açmak-1219
+6913-blossom-çiçek-1220
+6957-blunder-hata-1221
+7620-border-sınır-1222
+7221-break-kırmak-1223
+7270-breakthrough-atılım-1224
+7488-briskly-canlı-1225
+7221-bruise-çürük-1226
+6899-brutality-vahşet-1227
+6681-budget-bütçe-1228
+7085-bump-çarpmak-1229
+6895-burglar-hırsız-1230
+6900-capable-yetenekli-1231
+6813-captivate-büyülemek-1232
+6908-cautious-dikkatli-1233
+6741-chance-şans-1234
+6856-charity-hayır kurumu-1235
+6965-cheer-tezahürat-1236
+6811-chemist-eczacı-1237
+6718-choice-tercih-1238
+7425-choir-koro-1239
+6756-clammy-rutubetli-1240
+6658-clear-açık-1241
+6327-cliff-uçurum-1242
+6723-clog-tıkamak-1243
+6690-collar-yaka-1244
+7039-collide-çarpışmak-1245
+6917-commerce-ticaret-1246
+6988-compare-karşılaştırmak-1247
+6646-compensation-tazminat-1248
+7048-competition-yarışma-1249
+6852-complete-tamamlayınız-1250
+6848-composed-oluşan-1251
+8064-conceal-gizlemek-1252
+6703-condense-yoğunlaştırmak-1253
+7398-confidence-kendinden emin-1254
+7055-confidence-kendinden emin-1255
+7391-confirm-teyit etmek-1256
+7099-confiscated-el konulmuş-1257
+7908-congratulate-tebrik etmek-1258
+6935-conscientious-vicdanlı-1259
+7038-consequence-sonuç-1260
+6696-conserve-korumak-1261
+6761-consider-düşünmek-1262
+7211-consistently-sürekli-1263
+6660-contaminate-kirletmek-1264
+6831-cooperation-işbirliği-1265
+7103-courteous-nazik-1266
+7645-coward-ödlek-1267
+7122-crime-suç-1268
+8248-criminal-adli,suçlu-1269
+6688-crooked-çarpık-1270
+6841-crop-mahsul-1271
+6346-crowd-kalabalık-1272
+7137-cruelty-zulüm-1273
+7665-dabble-serpmek-1274
+7342-deadline-son tarih-1275
+6712-deceptive-aldatıcı-1276
+6767-dedicate-adamak-1277
+6727-defeat-yenmek-1278
+7688-deficient-yetersiz-1279
+7798-delicate-narin,kırılgan-1280
+6599-delight-lokum-1281
+6826-denial-inkar-1282
+7020-deny-reddetmek-1283
+7788-deplore-üzülmek-1284
+7111-dept-borç-1285
+7032-despondent-umutsuz-1286
+6808-detest-nefret etmek-1287
+7470-devote-adamak-1288
+6785-diluted-seyreltilmiş-1289
+7366-diminish-azaltmak-1290
+6754-discipline-disiplin-1291
+6855-discourteous-nezaketsiz-1292
+6917-discuss-tartışmak-1293
+7001-disease-hastalık-1294
+6882-disgraced-rezil-1295
+6386-disgust-iğrenme-1296
+6805-dishonest-sahtekâr-1297
+6697-disintegrate-parçalanmak-1298
+7499-disposition-eğilim-1299
+7340-dispute-anlaşmazlık,tartışmak-1300
+6713-dissolve-çözmek-1301
+6659-distrust-güvensizlik-1302
+6666-divert-yönlendirmek-1303
+7240-divide-bölmek-1304
+7763-divulge-ifşa etmek-1305
+6897-drift-sürüklenme-1306
+6803-drowsy-uykulu-1307
+7376-dwindle-azalmak-1308
+6255-edge-köşe-1309
+7085-elevation-yükseklik-1310
+6521-embark-gemiye binmek-1311
+6778-embarrassment-utanç-1312
+6680-emerge-ortaya çıkmak-1313
+7249-emit-yaymak-1314
+7291-employer-iş veren-1315
+6845-endearing-sevimli-1316
+6847-enlarge-büyütmek-1317
+6806-enlighten-aydınlatmak-1318
+7284-enthusiastically-hevesle-1319
+6803-envy-imrenmek-1320
+7491-espionage-casusluk-1321
+6846-examine-incelemek-1322
+6872-excessive-aşırı-1323
+7070-exchange-değiş tokuş-1324
+6888-excuse-mazeret-1325
+7049-exempt-muaf-1326
+6729-exhausted-yorgun-1327
+6787-exhibition-sergi-1328
+7032-existence-varoluş-1329
+7506-exotic-acayip-1330
+6720-expand-genişletmek-1331
+6565-expedition-sefer-1332
+6538-explicit-açık-1333
+7272-explorer-kaşif-1334
+6716-extremely-aşırı boyutta-1335
+7538-fabric-kumaş-1336
+7975-fact-hakikat-1337
+7154-far-uzak-1338
+7534-fatigue-tükenmişlik-1339
+6774-fearsome-korkunç-1340
+7650-feeble-zayıf-1341
+6151-fever-ateş-1342
+7445-firing-ateşleme-1343
+6649-fiscal-mali-1344
+6819-flawless-kusursuz-1345
+7118-flee-kaçmak-1346
+7723-flip-çevirmek-1347
+6208-float-batmadan yüzmek-1348
+6813-fluctuate-dalgalanmak-1349
+6634-flushed-kızardı-1350
+7726-foggy-sisli-1351
+6208-foolishness-aptallık-1352
+6809-forestall-önlemek-1353
+7416-fortunate-şanslı-1354
+6677-frank-açık sözlü-1355
+6888-frightened-korkmuş-1356
+6831-fume-duman-1357
+7000-futile-beyhude,boş,yararsız-1358
+7130-gain-kazanç-1359
+6746-gash-yara-1360
+6820-germinate-filizlenmek-1361
+6540-giggle-kıkırdama-1362
+6876-gist-öz-1363
+7044-gleeful-şen-1364
+6748-globe-küre-1365
+7356-goods-mal-1366
+7805-govern-yönetmek-1367
+7383-grievance-şikayet-1368
+6838-grumble-homurdanmak-1369
+6633-halt-dur-1370
+6894-hasten-acele etmek-1371
+7102-hazardous-tehlikeli-1372
+6651-heat-sıcaklık-1373
+6656-hectic-ateşli-1374
+7934-hence-buradan-1375
+7099-herd-sürü-1376
+7103-highway-otoyol-1377
+7221-hike-yürüyüş-1378
+7087-hinted-ima etti-1379
+7796-hoax-şaka-1380
+7013-homeless-evsiz-1381
+6651-honest-dürüst-1382
+7004-hug-sarılmak-1383
+6748-huge-kocaman-1384
+7991-humorous-nükteli,komik-1385
+6797-hurl-savurmak-1386
+6569-impartial-tarafsız-1387
+7277-imprecise-kesin olmayan-1388
+6896-impromptu,improvisation-doğaçlama-1389
+7204-inadvertent-kasıtsız-1390
+7380-incline-eğim-1391
+6651-inconsiderate-düşüncesiz-1392
+6656-incredible-inanılmaz-1393
+6645-incurable-tedavi edilemez-1394
+6819-indecisive-kararsız-1395
+7146-indifferent-kayıtsız,farksız-1396
+6772-indispensable-vazgeçilmez-1397
+6604-industrious-çalışkan-1398
+6811-inert-atıl-1399
+7295-inflammable-yanıcı-1400
+7367-insignificant-önemsiz-1401
+6209-insist-ısrar etmek-1402
+6690-insolent-küstah-1403
+6872-inspire-ilham vermek-1404
+6239-instructive-öğretici-1405
+7109-insult-hakaret etmek-1406
+6586-intensity-yoğunluk-1407
+7102-interfere-karışmak-1408
+7240-intermittent-aralıklı-1409
+7109-intrepid-cesur-1410
+6975-intricate-karmaşık-1411
+7762-investigator-araştırmacı-1412
+7148-investment-yatırım-1413
+6689-irresponsible-sorumsuz-1414
+7345-issue-sorun-1415
+6778-item-madde-1416
+7112-jam-reçel-1417
+7505-landscape-manzara-1418
+7433-lane-şerit-1419
+6853-law-kanun-1420
+6782-leading-lider-1421
+6916-liability-yükümlülük-1422
+6873-limp-topallamak-1423
+6665-linger-oyalanmak-1424
+6484-litter-çöp-1425
+7062-locate-yerini belirlemek-1426
+6809-lofty-yüce-1427
+7005-lonely-yalnız-1428
+6652-look-bakmak-1429
+6629-majority-çoğunluk-1430
+6876-management-yönetmek-1431
+6653-manufacture-imalat-1432
+6799-means-anlamına geliyor-1433
+6636-meddle-karışmak-1434
+6406-medicine-ilaç-1435
+6608-melt-erimek-1436
+7418-memorize-ezberlemek-1437
+6876-mend-onarmak-1438
+6707-merge-birleştirmek-1439
+6723-messy-dağınık-1440
+6807-mild-hafif-1441
+7659-misty-sisli-1442
+6905-misuse-yanlış kullanım-1443
+6480-moist-nemli-1444
+6943-mold-kalıp-1445
+6901-neglect-ihmal-1446
+7079-nod-başını sallamak-1447
+6126-notorious-kötü şöhretli-1448
+7315-novelist-romancı-1449
+7064-object-nesne-1450
+7076-obscured-gizlenmiş-1451
+6744-obsess-takıntı-1452
+7229-obstinate-inatçı-1453
+6826-odorless-kokusuz-1454
+6423-opinion-fikir-1455
+7065-orchid-orkide-1456
+6693-outline-anahat-1457
+6711-output-çıktı-1458
+7671-outrageous-çirkin-1459
+7000-overdue-gecikmiş-1460
+6816-overemphatic-aşırı vurgulu-1461
+7917-overseas-denizaşırı-1462
+6221-oversimplify-aşırı basitleştirmek-1463
+7068-overturn-devirmek-1464
+6844-owing-borçlu-1465
+6616-pale-solgun-1466
+7109-partner-ortak-1467
+6812-passageway-geçit-1468
+6259-pay-ödemek-1469
+6668-peculiarity-tuhaflık-1470
+6761-percent-yüzde-1471
+7030-personality-kişilik-1472
+6978-pessimistic-karamsar-1473
+6715-phony-sahte-1474
+7099-pick-toplamak-1475
+7103-plentiful-bol-1476
+6771-plunge-dalma-1477
+7337-poetic-şiirsel-1478
+6736-point-nokta-1479
+6756-policy-politika-1480
+7168-polish-lehçe-1481
+7038-poll-anket-1482
+7537-pollute-kirletmek-1483
+6482-praised-övülen-1484
+7530-precaution-önlem-1485
+7574-prediction-tahmin-1486
+6759-premium-ödül-1487
+7716-pretense-bahane-1488
+6947-pretext-bahane-1489
+7058-preview-ön izleme-1490
+7234-previous-öncesi-1491
+6733-pride-gurur-1492
+7636-private-özel-1493
+6868-prodigious-olağanüstü-1494
+6639-promote-desteklemek-1495
+6751-promotion-terfi-1496
+7235-prospect-umut-1497
+7787-punctual-dakik-1498
+6507-punctuality-dakiklik-1499
+6756-purify-arındırmak-1500
+6196-quarter-çeyrek-1501
+7165-quartet-dörtlü-1502
+6973-rate-oran-1503
+6925-recast-yeniden şekillendirmek-1504
+6771-recent-son-1505
+7447-reckless-umursamaz-1506
+6753-reckon-hesaba katmak-1507
+7101-recover-kurtarmak-1508
+6829-recruit-iyileştirmek-1509
+7427-refrain-sakınmak,çekinmek-1510
+7463-refugee-mülteci-1511
+6851-refute-yalanlamak-1512
+6835-regarded-addedilen-1513
+6712-region-bölge-1514
+6696-rejection-reddetme-1515
+6772-relent-merhamet etmek-1516
+7141-reluctant-isteksiz-1517
+7139-reluctantly-isteksizce-1518
+7222-remark-açıklama-1519
+7048-remarkable-dikkat çekici-1520
+6818-remove-kaldırmak-1521
+7108-renovation-yenileme-1522
+6143-represent-temsil etmek-1523
+6933-reprimand-kınama-1524
+7501-reprove-azarlamak-1525
+6601-require-gerekmek-1526
+6530-reservation-rezervasyon-1527
+7190-resign-çekilmek,pes etmek-1528
+7051-resignation-istifa-1529
+6349-resonance-rezonans-1530
+7314-respect-saygı-1531
+7479-restored-restore-1532
+6953-restraint-kısıtlama-1533
+6763-restriction-kısıtlama-1534
+6659-resultant-sonuç-1535
+6748-reveal-ortaya çıkarmak-1536
+6655-revere-saygı duymak-1537
+6899-revise-tekrar düzeltme yapmak-1538
+7010-ridiculous-saçma-1539
+6639-rim-jant-1540
+6886-rival-rakip-1541
+7096-rot-çürümek-1542
+7216-rugged-sağlam-1543
+7379-rule-kural-1544
+7101-runaway-kaçmak-1545
+7223-saucer-fincan tabağı-1546
+6783-scattered-dağınık-1547
+6834-scheme-şema-1548
+6924-scholarly-bilimsel-1549
+7100-scholarship-burs-1550
+7724-scold-azarlamak-1551
+7109-scorch-kavurma-1552
+6120-sealed-mühürlü-1553
+6630-seam-dikiş-1554
+6229-seed-tohum-1555
+7959-seize-ele geçirmek,kapmak-1556
+6904-select-seçme-1557
+7306-selfish-bencil-1558
+7117-sensitive-duyarlı-1559
+7007-serene-sakin-1560
+7680-shade-gölge-1561
+9000-severe,violent-şiddetli-1562
+7269-shape-şekil-1563
+6604-shareholder-hissedar-1564
+6921-shattered-parçalanmış-1565
+6536-shield-kalkan-1566
+6932-shipping-nakliye-1567
+7421-shrewd-kurnaz-1568
+7234-sinful-günahkar-1569
+6716-skillful-becerikli-1570
+6993-skip-atlamak-1571
+7308-slope-eğim-1572
+7403-sly-kurnaz-1573
+6992-smooth-düz-1574
+8024-sneer-alay-1575
+6763-soothe-yatıştırmak-1576
+6860-sophisticated-kültürlü,gelişmiş-1577
+6758-sphere-küre-1578
+7737-spokesperson-sözcü-1579
+7272-sporadic-sporadik-1580
+6780-staff-personel-1581
+6859-statue-heykel-1582
+6714-stature-boy-1583
+6708-stem-den gelmek,kök-1584
+6928-step-adım-1585
+7548-stern-kıç-1586
+6828-stiff-katı-1587
+7569-stingy-pinti-1588
+7635-stockholder-hissedar-1589
+6712-straighten-düzeltmek-1590
+6970-stubborn-inatçı-1591
+6627-subsidize-mali bakımdan beslemek-1592
+6669-summary-özet-1593
+7434-superficial-yüzeysel-1594
+6657-superior-üst-1595
+6752-supplementary-tamamlayıcı-1596
+6210-surgeon-cerrah-1597
+6647-surmount-üstesinden gelmek-1598
+6692-surpass-aşmak-1599
+6669-survive-hayatta kalmak-1600
+6922-suspicion-şüphe-1601
+7242-sustain-güç vermek,sürdürmek-1602
+7127-symptom-semptom-1603
+7463-synopsis-özet-1604
+6752-talent-yetenek-1605
+7395-tax-vergi-1606
+6626-tempt-baştan çıkarmak-1607
+6836-testimony-tanıklık-1608
+7713-thorough-kapsamlı-1609
+7044-thoughtful-düşünceli-1610
+7207-thrifty-tutumlu-1611
+7269-throng-kalabalık-1612
+7157-tilted-eğik-1613
+6891-top-tepe-1614
+6798-torn-yırtık-1615
+6580-tower-kule-1616
+7228-trace-iz-1617
+7809-trail-iz-1618
+6783-tramped-ezilmiş-1619
+7123-tranquil-sakin-1620
+6849-transaction-işlem-1621
+8091-treachery-hıyanet-1622
+6144-treatment-tedavi-1623
+6903-treatment-tedavi-1624
+6726-trial-duruşma-1625
+8032-triumph-zafer-1626
+7029-trivial-önemsiz-1627
+6760-trust-güven-1628
+6881-trust-güven-1629
+6718-tunnel-tünel-1630
+6721-underestimate-azımsamak-1631
+7006-underground-yeraltı-1632
+7067-undermine-altını oymak-1633
+6886-underrate-küçümsemek-1634
+6819-unhesitatingly-tereddütsüz-1635
+7273-union-birlik-1636
+6784-unique-benzersiz-1637
+7467-unpardonable-affedilemez-1638
+8304-unpleasant-hoş olmayan-1639
+7005-unrehearsed-provasız-1640
+7333-unrestrained-sınırsız-1641
+7105-unwillingly-isteksizce-1642
+7332-unwillingness-isteksizlik-1643
+6157-vanity-kibir-1644
+7197-varied-çeşitli-1645
+6738-versatile-çok yönlü-1646
+6709-vexed-sinirli-1647
+6810-victim-kurban-1648
+6555-victory-zafer-1649
+7015-vital-hayati-1650
+6937-voluntarily-gönüllü olarak-1651
+6796-vote-oy-1652
+6536-wasteful-savurgan-1653
+6277-weakness-zayıflık-1654
+6724-wealthy-zengin-1655
+6169-wealthy-zengin-1656
+6441-wheel-teker-1657
+7634-whip-kırbaç-1658
+7257-wise-bilge-1659
+6954-wither-solmak-1660
+6655-wrinkle-kırışıklık-1661
+6600-in favor of-lehine,lehinde-1662
+6936-abolition-kaldırma,iptal-1663
+6790-absorb-absorbe etmek-1664
+7554-abuse-taciz-1665
+6655-academic-akademik-1666
+6866-accelerator-gaz pedalı-1667
+6541-access-erişim-1668
+6627-accounting-muhasebe-1669
+6627-accumulate-biriktirmek-1670
+6879-accustom-alıştırmak-1671
+6887-achievement-kazanım-1672
+6787-acid-asit-1673
+6669-acknowledge-kabullenmek,kabul etmek,onaylamak-1674
+7123-acquisition-kazanma-1675
+6788-addict-bağımlı-1676
+6501-admiral-amiral-1677
+9280-adverse-olumsuz-1678
+7139-alcohol-alkol-1679
+7367-allocations-tahsisler-1680
+7100-alphabet-alfabe-1681
+6604-alter-değiştirmek-1682
+6854-alternative-alternatif-1683
+7026-amateur-amatör-1684
+6456-ambulance-ambulans-1685
+6716-angel-melek-1686
+6672-anger-kızgınlık-1687
+6843-angle-açı-1688
+6714-antique-antik-1689
+6947-anxiously-endişeyle-1690
+6829-apartment-apartman-1691
+7014-apparently-görünen o ki-1692
+6879-article of-makale-1693
+6766-assurance-güvence-1694
+7960-assured-emin-1695
+7171-attachment-ek dosya,bağlılık-1696
+6745-attendant-görevli-1697
+6297-auction-açık arttırma-1698
+6659-audience-kitle-1699
+6732-augment-artırmak-1700
+6747-augmentation-büyütme-1701
+6495-author-yazar-1702
+6737-authority-yetki-1703
+6795-awkward-garip-1704
+6940-babysitter-çocuk bakıcısı-1705
+7290-bachelor-lisans-1706
+6462-backbone-omurga-1707
+7342-bale-balya-1708
+6770-banal-banal-1709
+6811-bandage-bandaj-1710
+6799-baneful-zararlı-1711
+6791-banish-sürgün etmek-1712
+6886-barbarous-barbar-1713
+6692-barber-berber-1714
+6674-basin-havza-1715
+6580-battery-pil-1716
+7457-bawl-bağırmak-1717
+7238-beforehand-önceden-1718
+6675-bias-ön yargı-1719
+6723-birthday-doğum günü-1720
+6797-bladder-mesane-1721
+7381-blade-bıçak ağzı-1722
+7376-blister-kabarcık-1723
+7383-blockade-abluka-1724
+6195-blouse-bluz-1725
+6918-bodyguard-koruma-1726
+6655-boiler-kazan-1727
+7941-bolt-cıvata-1728
+6110-bonnet-kaput-1729
+7567-bony-kemikli-1730
+6757-booklet-kitapçık-1731
+7446-boot-bot-1732
+6550-boring-sıkıcı-1733
+7566-bother-zahmet-1734
+8298-bound-bağlı-1735
+6529-boundary-sınır-1736
+7543-brake-fren-1737
+6895-branch-dal-1738
+7356-break down-yıkmak-1739
+6821-breast-göğüs-1740
+6823-bribe-rüşvet-1741
+6736-bride-gelin-1742
+6790-briefcase-iş çantası-1743
+6774-brilliant-muhteşem-1744
+6284-brochure-broşür-1745
+7305-broken-bozuldu-1746
+6924-broker-komisyoncu-1747
+6239-brow-kaş-1748
+7100-bucket-kova-1749
+7631-bull-boğa-1750
+7027-bullet-mermi-1751
+6222-bureau-büro-1752
+6765-bureaucracy-bürokrasi-1753
+6627-by the way-bu arada-1754
+6915-cabbage-lahana-1755
+7185-cabin-kabin-1756
+6920-cabinet-kabine-1757
+6538-calf-buzağı-1758
+6876-camel-deve-1759
+6985-canary-kanarya-1760
+7438-cannon-top-1761
+6560-carefree-kaygısız-1762
+6797-careful-dikkatli olmak-1763
+7692-careless-dikkatsiz-1764
+7365-cargo-kargo-1765
+7134-carrier-taşıyıcı-1766
+6876-carrot-havuç-1767
+6465-cartridge-kartuş-1768
+6298-casual-gündelik-1769
+6826-caterpillar-tırtıl-1770
+6933-cauliflower-karnıbahar-1771
+6654-caution-dikkat-1772
+6647-cave-mağara-1773
+6965-cease-durdurmak,kesmek-1774
+6941-celebration-kutlama-1775
+7752-cement-çimento-1776
+6805-central-merkezi-1777
+7091-centre-merkez-1778
+6787-cereal-mısır gevreği-1779
+7688-chamber-bölme-1780
+7212-champagne-şampanya-1781
+6478-channel-kanal-1782
+6509-chapter-bölüm-1783
+6412-charlatan-şarlatan-1784
+7075-chart-çizelge-1785
+6746-charter-kiralama-1786
+6791-chase-kovalamak-1787
+6795-chat-sohbet etmek-1788
+7109-cheeky-yüzsüz-1789
+6536-cheerful-neşeli-1790
+6580-chef-şef-1791
+7059-cheque-kontrol-1792
+7208-chest-göğüs-1793
+6695-chilly-soğuk-1794
+7679-chimney-baca-1795
+6571-chip-yonga-1796
+7093-choke-boğulmak-1797
+6478-chop-kesmek-1798
+7381-chuckle-kıkırdama-1799
+7027-cigar-puro-1800
+7090-circuit-devre-1801
+8090-claimant-davacı-1802
+6668-clap-alkış-1803
+6827-clay-kil-1804
+6780-client-müşteri-1805
+7291-climate-iklim-1806
+7044-clinic-klinik-1807
+7024-cloth-kumaş-1808
+7393-clown-palyaço-1809
+6994-clutch-debriyaj-1810
+6553-cocoa-kakao-1811
+6470-code-kod-1812
+7227-collapse-çöküş-1813
+6898-colleague-çalışma arkadaşı-1814
+7478-collective-toplu-1815
+7106-colonel-albay-1816
+6711-column-kolon-1817
+7388-coma-koma-1818
+6800-comet-kuyruklu yıldız-1819
+6877-commemorate-anmak-1820
+7096-commission-komisyon-1821
+7057-commitment-bağlılık-1822
+7770-communicate-iletişim-1823
+7168-commute-işe gidip gelmek,hafifletmek,çevirmek-1824
+7640-complicated-karmaşık-1825
+7034-component-bileşen-1826
+6865-composition-kompozisyon-1827
+7288-computer-bilgisayar-1828
+7129-concept-kavram-1829
+6835-condemn-kınamak-1830
+6978-cone-koni-1831
+6799-conference-konferans-1832
+7142-confine-sınırlamak-1833
+6943-consign-sevk etmek-1834
+6962-consumption-tüketim-1835
+6718-contact-iletişim-1836
+6794-continent-kıta-1837
+7448-convict-mahkum-1838
+7058-cope-başa çıkmak-1839
+6647-cork-mantar-1840
+7491-coupe-kupa-1841
+7335-coupon-kupon-1842
+7024-cracker-kraker-1843
+6979-cramp-kramp-1844
+6807-crane-vinç-1845
+6449-credit-kredi-1846
+6983-crisis-kriz-1847
+7307-crisp-gevrek-1848
+6718-critical-kritik-1849
+7362-crossword-bulmaca-1850
+7069-crow-karga-1851
+6857-crude-ham-1852
+7170-curry-köri-1853
+7398-cushion-yastık-1854
+6321-cylinder-silindir-1855
+6713-daisy-papatya-1856
+6845-damage-zarar-1857
+7181-darling-sevgilim-1858
+6696-deadlock-kilitlenme-1859
+6733-deaf-sağır-1860
+6717-debatable-tartışmalı-1861
+7282-deficit-açık-1862
+6969-definition-tanım-1863
+6821-demoralize-moralini bozmak-1864
+6869-dependent-bağımlı-1865
+7201-deputation-heyet-1866
+6844-deputy-milletvekili-1867
+7606-despite-aksine-1868
+6886-destination-hedef-1869
+5942-detective-dedektif-1870
+7261-dew-çiğ-1871
+7034-diameter-çap-1872
+6870-dice-zar-1873
+6606-diet-diyet-1874
+6566-digest-sindirmek-1875
+7060-dim-loş-1876
+7243-dip-daldırma-1877
+7006-directory-dizin-1878
+7483-disaster-felaket-1879
+6893-disclose-ifşa etmek-1880
+7014-disco-disko-1881
+7030-displace-yerinden etmek-1882
+7027-dive-dalmak-1883
+7133-diver-dalgıç-1884
+6948-divorce-boşanmak-1885
+7032-dominate-hükmetmek-1886
+6647-donate-bağış yapmak-1887
+7468-donation-bağış-1888
+7454-donor-bağışçı-1889
+7066-doom-kıyamet-1890
+6794-dose-doz-1891
+7003-down payment-peşinat-1892
+6917-doze-uyuklamak-1893
+6983-dozen-düzine-1894
+6721-drag-sürüklemek-1895
+6651-drain-boşaltmak-1896
+7548-drama-drama-1897
+6595-drawer-çekmece-1898
+7371-drawn-çizilmiş-1899
+6115-drug-uyuşturucu madde-1900
+6395-earthquake-deprem-1901
+6659-eel-yılanbalığı-1902
+6670-elapse-geçen-1903
+6894-emotion-duygu-1904
+6564-emphasis-vurgu-1905
+7531-emphatic-vurgulu-1906
+7520-empire-imparatorluk-1907
+6800-equalize-eşitlemek-1908
+7106-equip-donatmak-1909
+6782-equipment-teçhizat-1910
+6507-escort-eskort-1911
+6987-estate-arazi-1912
+6807-evacuate-tahliye etmek-1913
+6722-evidence-delil-1914
+7343-exceed-aşmak-1915
+6761-exclaim-haykırmak-1916
+6850-execute-uygulamak-1917
+7452-exhaust-egzoz,yormak,boşaltmak-1918
+6968-expansion-genleşme-1919
+8534-experiment-deney-1920
+7615-expire-sona ermek-1921
+6903-explosive-patlayıcı-1922
+6974-export-ihracat-1923
+6831-extinguish-söndürmek-1924
+6991-extreme-aşırı-1925
+6911-eyebrow-kaş-1926
+7185-eyelash-kirpik-1927
+7085-eyelid-göz kapağı-1928
+7643-fable-masal-1929
+7529-fabulous-efsanevi-1930
+6764-fake-sahte-1931
+6718-fame-şöhret-1932
+6724-fan-fan-1933
+6613-fancy-süslü-1934
+6947-feature-özellik-1935
+7054-fed up-bıkmak-1936
+6891-ferry-feribot-1937
+7532-fertile-bereketli,verimli-1938
+7404-fertilize-gübrelemek-1939
+6404-festival-festival-1940
+6811-fiance-nişanlı-1941
+6828-fiction-kurgu-1942
+6824-fig-incir-1943
+6999-fire brigade-itfaiye-1944
+7349-fist-yumruk-1945
+6740-flea-pire-1946
+6720-fleet-filo-1947
+7103-flipper-palet-1948
+6919-florist-çiçekçi-1949
+7156-fluent-akıcı-1950
+7644-foam-köpük-1951
+7600-folk-halk-1952
+6747-footprint-ayak izi-1953
+6657-foreman-ustabaşı-1954
+6929-forever-sonsuza kadar-1955
+6739-forge-dövmek-1956
+6988-forger-sahtekâr-1957
+6526-formal-resmi-1958
+7827-forthwith-derhal-1959
+7025-foul-faul-1960
+7098-fuse-sigorta-1961
+6763-fuss-yaygara-1962
+6883-gaol-hapishane-1963
+6708-gear-vites-1964
+7115-germ-mikrop-1965
+6823-ghost-hayalet-1966
+6743-ginger-zencefil-1967
+6930-glue-zamk-1968
+6672-goal-amaç-1969
+7809-grapefruit-greyfurt-1970
+6960-grateful-minnettar-1971
+6802-gravestone-mezar taşı-1972
+7003-graveyard-mezarlık-1973
+6760-greengrocer-manav-1974
+6714-groom-damat-1975
+7429-guarantee-garanti-1976
+7476-gulf-körfez-1977
+7521-habitat-doğal ortam-1978
+6842-headline-başlık-1979
+6376-headphone-kulaklık-1980
+6699-hectare-hektar-1981
+6711-hinge-menteşe-1982
+6930-hold on-devam etmek-1983
+6895-holy-kutsal-1984
+7264-hook-kanca-1985
+6895-horizontal-yatay-1986
+7054-hose-hortum-1987
+7414-hubbub-şamata-1988
+6807-hush-sus-1989
+7037-hut-kulübe-1990
+6679-idiot-aptal,gerizekalı-1991
+6927-ignition-ateşleme-1992
+7992-imagination-hayal gücü-1993
+6713-imagine-hayal etmek-1994
+7429-imitation-taklit-1995
+6925-indefinitely-süresiz olarak-1996
+6718-indemnify-tazmin etmek-1997
+7358-indemnity-tazminat-1998
+6957-index-dizin-1999
+7774-indorse-ciro etmek,desteklemek,onaylamak-2000
+7140-endorsement-onay-2001
+7126-inevitable-kaçınılmaz-2002
+7495-infinite-sonsuz-2003
+6834-inflation-şişirme-2004
+7282-inflexible-katı-2005
+6733-inject-enjekte etmek-2006
+6357-innocent-masum-2007
+6843-insecure-güvensiz-2008
+7753-insolvent-iflas etmiş-2009
+7327-instant-ani-2010
+7227-intangible-maddi olmayan-2011
+8099-intensive-yoğun-2012
+7169-intestine,bowel-bağırsak-2013
+6810-invade-istila etmek-2014
+6535-ironically-ironik olarak-2015
+6854-irritate-kızdırmak-2016
+7411-itch-kaşıntı-2017
+6976-jack-kriko-2018
+7537-jackal-çakal-2019
+6314-jaguar-jaguar-2020
+6198-jar-kavanoz-2021
+7167-jeans-kot-2022
+6922-jelly-jöle-2023
+6319-jellyfish-deniz anası-2024
+7043-jockey-jokey-2025
+6992-kidnap-kaçırmak-2026
+7252-kidney-böbrek-2027
+6494-kin-akraba-2028
+6202-lash-kirpik-2029
+6812-launch-başlatmak-2030
+7112-length-uzunluk-2031
+6562-lettuce-marul-2032
+6664-lever-kaldıraç-2033
+6836-liar-yalancı-2034
+6482-lick-yalamak-2035
+6799-lid-kapak-2036
+6614-lighter-daha hafif-2037
+6734-limit-sınır-2038
+7308-liquidate-tasfiye etmek-2039
+7043-literature-edebiyat-2040
+6734-liver-karaciğer-2041
+7087-loaf-somun-2042
+7314-loan-borç-2043
+7056-lobster-istakoz-2044
+6598-loyalty-bağlılık,sadakat-2045
+6871-magazine-dergi-2046
+7107-magnet-mıknatıs-2047
+6855-magnificent-muhteşem-2048
+7662-maid-hizmetçi-2049
+6704-major-ana-2050
+7381-maniac-manyak-2051
+6874-manual-manuel-2052
+7706-margin-marj-2053
+6855-marmalade-marmelat-2054
+6907-massacre-katliam-2055
+7167-massive-iri,cüsseli,kocaman-2056
+6950-mat-mat-2057
+6580-mate-dostum-2058
+6757-mathematic-matematik-2059
+6763-mattress-yatak-2060
+6848-mature-olgun-2061
+7479-maturity-olgunluk-2062
+6294-maximum-maksimum-2063
+7277-meadow-çayır-2064
+7042-mechanic-tamirci-2065
+6700-medical-tıbbi-2066
+7816-merit-liyakat-2067
+6858-might-belki-2068
+6775-millet-darı-2069
+6642-millionaire-milyoner-2070
+7353-mince-kıyma-2071
+6987-miracle-mucize-2072
+6645-miser-cimri-2073
+7632-misery-sefalet-2074
+7289-mislay-yanlış-2075
+7063-mobile-mobil-2076
+6765-moisture-nem-2077
+7280-mole-köstebek-2078
+6763-monument-anıt-2079
+7203-mood-mod-2080
+6963-moral-ahlaki-2081
+6649-morale-moral-2082
+7243-mortgage-ipotek-2083
+7118-mosquito-sivrisinek-2084
+7711-moss-yosun-2085
+7270-motion-hareket-2086
+6658-motive-güdü-2087
+7366-multiply-çarpmak-2088
+6339-muscle-kas-2089
+6719-museum-müze-2090
+7095-mushroom-mantar-2091
+7294-muslim-müslüman-2092
+7217-mustard-hardal-2093
+7411-mute-sesini kapatmak-2094
+6720-mutter-mırıldanmak-2095
+6931-network-ağ-2096
+6956-nominate-aday göstermek-2097
+6723-nonsense-anlamsız-2098
+6592-nylon-naylon-2099
+7005-oasis-vaha-2100
+6669-oblige-mecbur etmek-2101
+6697-odd-garip-2102
+7034-omelette-omlet-2103
+6534-onion-soğan-2104
+7080-option-seçenek-2105
+6674-oxygen-oksijen-2106
+6718-oyster-istiridye-2107
+7063-packed-paketlenmiş-2108
+7294-palm-avuç içi-2109
+6653-panel-panel-2110
+7103-pants-pantolon-2111
+6806-parachute-paraşüt-2112
+6731-parade-geçit töreni-2113
+6789-passive-pasif-2114
+6921-pasta-makarna-2115
+7066-paste-yapıştırmak-2116
+6750-pastime-eğlence-2117
+6614-path-yol-2118
+7140-patrol-devriye gezmek-2119
+6706-patron-patron-2120
+6707-pause-duraklat-2121
+6290-paw-pati-2122
+7005-pea-bezelye-2123
+7332-peach-şeftali-2124
+6732-peanut-fıstık-2125
+7049-permanent-kalıcı-2126
+7109-pessimist-kötümser-2127
+6844-petrol station-petrol istasyonu-2128
+6953-philosophy-felsefe-2129
+7418-physical-fiziksel-2130
+6657-picket-kazık-2131
+6524-pickle-turşu-2132
+7371-pillow-yastık-2133
+6734-pinch-tutam-2134
+6974-pincers-kerpeten-2135
+6918-pioneer-öncü-2136
+6606-pistol-tabanca-2137
+6989-pity-yazık-2138
+7141-plastic-plastik-2139
+6524-playground-oyun alanı-2140
+6794-plum-erik-2141
+6584-plumber-tesisatçı-2142
+6811-pole-kutup-2143
+6928-porcelain-porselen-2144
+6984-primarily-öncelikli olarak-2145
+6975-primary-öncelik-2146
+6483-primitive-ilkel-2147
+7276-priority-öncelik-2148
+6808-privilege-ayrıcalık-2149
+7009-process-işlem-2150
+6664-prohibit-yasaklamak-2151
+6653-propeller-pervane-2152
+6626-proportion-oran-2153
+6720-prosecute-kovuşturma yapmak-2154
+7432-proverb-atasözü-2155
+7197-provocation-provokasyon-2156
+7509-provoke-kışkırtmak-2157
+6484-pulse-nabız-2158
+7259-pumpkin-kabak-2159
+6962-ram-veri deposu-2160
+8081-rash-döküntü-2161
+6657-rat-fare-2162
+7568-rear-arka-2163
+7617-recollect-hatırlamak-2164
+6631-reconcile-uzlaştırmak-2165
+6568-referee-hakem-2166
+7102-referendum-referandum-2167
+6946-refill-yeniden doldurmak-2168
+6594-refreshment-içecek-2169
+7091-refrigerator-buzdolabı-2170
+6781-relevant-ilgili-2171
+6964-remit-havale-2172
+6824-remittance-havale-2173
+6402-research-araştırma-2174
+6763-resend-yeniden göndermek-2175
+7223-resident-ikamet eden kişi-2176
+6790-respond-cevap vermek-2177
+6371-restrict-kısıtlamak-2178
+6842-retail-perakende-2179
+7162-retaliation-misilleme-2180
+6680-reverse-tersi-2181
+6750-rifle-tüfek-2182
+6516-roundabout-dönel kavşak-2183
+6734-route-rota-2184
+7101-rubber-lastik-2185
+6927-rug-kilim-2186
+7237-rust-pas-2187
+7083-sacrifice-kurban-2188
+6943-salmon-somon-2189
+6354-sample-örnek-2190
+7070-sandpaper-zımpara kağıdı-2191
+6657-sardine-sardalya-2192
+6387-satellite-uydu-2193
+7037-satin-saten-2194
+7799-saucepan-tencere-2195
+6998-sausage-sosis-2196
+7954-savage-vahşi-2197
+6854-savour-tadını çıkarmak,kokusunu almak-2198
+6499-saw-testere-2199
+7701-saxophone-saksafon-2200
+7029-scare-korkmak-2201
+6992-scarf-atkı-2202
+6916-scene-faliyet alani,sahne-2203
+6769-scone-çörek-2204
+7381-scorpion-akrep-2205
+7007-scramble-karıştırmak-2206
+7007-scruff-ense-2207
+7143-seal-mühür-2208
+7107-seaside-sahil-2209
+6566-secure-güvenli-2210
+6820-see over-gözden geçirmek-2211
+7275-segment-segment-2212
+7198-senior-kıdemli-2213
+7220-sergeant-çavuş-2214
+6689-serviette-peçete-2215
+6858-set out-yola çıkmak-2216
+6695-set on-ayarlanmış-2217
+6997-shallow-sığ-2218
+6887-shark-köpek balığı-2219
+6409-shave-tıraş olmak-2220
+6756-shelf-raf-2221
+7078-shortage-kıtlık-2222
+6764-shrink-küçültmek,büzmek-2223
+6820-signpost-yön tabelası-2224
+7143-silly-şapşal-2225
+6762-silo-silo-2226
+7266-sincere-içten-2227
+7231-singular-tekil-2228
+7074-skim-sıyırmak-2229
+6696-skull-kafatası-2230
+7518-snub-çekinmek-2231
+7177-soak-emmek-2232
+6380-social-sosyal-2233
+7291-sock-çorap-2234
+7687-solidarity-dayanışma-2235
+6939-souvenir-hatıra-2236
+6718-span-açıklık,kapsamak-2237
+6837-spanner-ingiliz anahtarı-2238
+6852-spectacular-muhteşem-2239
+7203-spectator-seyirci-2240
+7732-spice-baharat-2241
+6456-spider-örümcek-2242
+6826-spill-dökülmek-2243
+7830-spiral-sarmal-2244
+6967-spit-tükürmek-2245
+7770-splash-sıçrama-2246
+6608-squash-bastırmak,ezmek-2247
+7040-stabilize-stabilize etmek-2248
+6876-stable-kararlı-2249
+7359-stapler-zımba-2250
+7276-stationery-kırtasiye-2251
+6183-steak-biftek-2252
+6489-steel-çelik-2253
+6708-steep-dik-2254
+7458-step child-üvey evlat-2255
+6539-sterile-steril-2256
+6805-sterilize-sterilize etmek-2257
+7060-steward-kahya-2258
+6802-stool-dışkı-2259
+6578-storm-fırtına-2260
+7146-strainer-süzgeç-2261
+6806-strap-kayış-2262
+6696-stretcher-sedye-2263
+6888-structure-yapı-2264
+7375-studio-stüdyo-2265
+7063-stutter-kekeme-2266
+6837-style-stil-2267
+8241-submit-sunmak,göndermek-2268
+6710-subscribe-abone-2269
+6944-substitute-vekil-2270
+6681-subtract-çıkarmak-2271
+7259-suicide-intihar-2272
+6209-suitcase-bavul-2273
+7101-summit-toplantı-2274
+6720-sunset-gün batımı-2275
+6956-supervise-denetlemek-2276
+6458-supply-tedarik,sağlamak-2277
+6922-suppress-bastırmak-2278
+7154-supreme-yüce-2279
+6889-surgery-ameliyat-2280
+7372-surrender-teslim-2281
+6821-suspension-süspansiyon-2282
+7097-swan-kuğu-2283
+6334-sweater-kazak-2284
+7130-swollen-şişmiş-2285
+6738-syrup-şurup-2286
+6714-taboo-tabu-2287
+7182-tan-bronzluk-2288
+7079-tangerine-mandalina-2289
+7275-target-hedef-2290
+7202-tariff-tarife-2291
+7282-tart-turta-2292
+7079-tease-alay etmek-2293
+7879-technique-teknik-2294
+7363-teenager-genç-2295
+6168-temporary-geçici-2296
+6063-tenant-kiracı-2297
+6938-tent-çadır-2298
+6647-terrace-teras-2299
+7705-terrify-korkutmak-2300
+6802-territory-bölge-2301
+6855-theme-tema-2302
+6898-theory-teori-2303
+7258-thermometer-termometre-2304
+6745-thoroughly-iyice,kapsamlı olarak-2305
+6695-thoughtless-düşüncesiz-2306
+6839-thumb-baş parmak-2307
+7632-tick-kene-2308
+6647-tide-gelgit-2309
+6677-tiger-kapla-2310
+6858-torpedo-torpido-2311
+6695-tortoise-tosbağa-2312
+7108-torture-işkence-2313
+8001-tough-zorlu-2314
+6999-tournament-turnuva-2315
+7155-tradition-gelenek-2316
+7005-tragedy-trajedi-2317
+7097-transform-dönüştürmek-2318
+7881-transparent-şeffaf-2319
+6300-trap-tuzak-2320
+6751-trigger-tetiklemek-2321
+6483-tripod-üçayak-2322
+7488-troop-birlik-2323
+7100-tuition-harç-2324
+7563-tulip-lale-2325
+7152-tummy-karın-2326
+7199-turnkey-anahtar teslimi-2327
+7108-turnover-devir-2328
+7055-typist-daktilo-2329
+7616-tyre-tekerlek-2330
+6654-undergo-uğramak-2331
+7445-underline-altını çizmek-2332
+7512-unit-birim-2333
+6888-up to you-sana bağlı-2334
+7554-upside down-başaşağı-2335
+7127-urban-kentsel-2336
+6857-vacation-tatil-2337
+6133-vanilla-vanilya-2338
+6726-vaporize-buharlaştırmak-2339
+6971-vase-vazo-2340
+6679-veil-duvak-2341
+6850-vein-damar-2342
+8098-velvet-kadife-2343
+7392-verb-fiil-2344
+7830-verdict-karar-2345
+6842-vertical-dikey-2346
+6536-vest-yelek-2347
+7088-vet-veteriner-2348
+6676-via-üzerinden-2349
+7326-viable-uygulanabilir-2350
+6900-vice-mengene-2351
+7225-victimize-kurban etmek-2352
+6838-vinegar-sirke-2353
+6326-violin-keman-2354
+7119-volcano-volkan-2355
+7026-voluntary-gönüllü-2356
+7521-vomit-kusmak-2357
+6750-vowel-sesli harf-2358
+6807-vulture-akbaba-2359
+6685-wager-bahis-2360
+6643-wagon-vagon-2361
+6797-waist-bel-2362
+6961-waistcoat-yelek-2363
+6396-walnut-ceviz-2364
+7072-warder-gardiyan-2365
+6789-wardrobe-giysi dolabı-2366
+7219-ware-eşya-2367
+6709-warehouse-depo-2368
+6746-warrant-garanti-2369
+6803-wasp-yaban arısı-2370
+6414-water proof-su geçirmez-2371
+6642-whale-balina-2372
+6966-what if-farzedelim-2373
+7897-what’s more-daha ne-2374
+7735-whim-heves-2375
+6653-whisper-fısıltı-2376
+7401-windpipe-nefes borusu-2377
+7294-wing-kanat-2378
+6647-wisdom-bilgelik-2379
+7446-worship-tapmak-2380
+6707-wrist-bilek-2381
+6682-zoom-yakınlaştırma-2382
+7221-accompany-eşlik etmek-2383
+7292-afford-gücü yetmek maddi-2384
+7800-assess-değerlendirmek-2385
+7175-comprise-içermek,kapsamak-2386
+6920-consult-danışmak-2387
+7316-declare-beyan etmek-2388
+7469-decline-azalmak,reddetmek-2389
+6976-occupy-işgal etmek-2390
+6847-perceive-algılamak,sezmek-2391
+7223-recall-hatırlamak-2392
+6832-seem-gibi görünmek-2393
+6608-stamp-damgalamak-2394
+6707-survey-araştırmak-2395
+6984-state-ifade etmek-2396
+7545-undertake-üstlenmek,yüklenmek-2397
+9800-urge-zorlamak,ikna etmek-2398
+7240-enact-yasa çıkarmak-2399
+7424-discourage-cesaretini kırmak,yıldırmak-2400
+6704-inflict-yüklemek,vermek-2401
+7120-prevail-yaygın olmak-2402
+6884-hinder-engel olmak-2403
+6435-regulate-düzenlemek-2404
+6475-conform-uymak,boyun eğmek-2405
+7076-deter-caydırmak-2406
+7455-illuminate-aydınlatmak-2407
+6706-stipulate-şart koşmak-2408
+7652-withhold-alıkoymak,saklamak-2409
+6595-enforce-güçlendirmek-2410
+6697-eradicate-kökünü kurutmak-2411
+6942-deplete-azalmak,tükenmek-2412
+6660-harvest-hasat etmek,biçmek-2413
+7575-overwhelm-etkisi altına almak-2414
+7344-proclaim-ilan etmek,duyurmak-2415
+6280-conquer-fethetmek-2416
+6749-thrive-gelişmek,büyümek-2417
+7082-curtail-kısaltmak-2418
+7057-assert-iddia etmek-2419
+6758-correlate-ilişkisi olmak-2420
+6753-foresee-ön görmek-2421
+7149-entail-gerektirmek-2422
+6965-foster-büyütmek,geliştirmek-2423
+6993-contradict-çelişmek-2424
+6860-obstruct-engellemek,tıkamak-2425
+7702-discharge-tahliye etmek,görevden almak,boşaltmak-2426
+6894-forego-vazgeçmek-2427
+7391-deem-varsaymak,dikkate almak-2428
+6805-exhale-nefes vermek-2429
+6767-deceive-kandırmak-2430
+6791-deduct-çıkarmak,azaltmak-2431
+7223-unite-birleştirmek-2432
+6924-fulfill-yerine getirmek-2433
+7384-pertain-ilgili olmak-2434
+7054-empower-yetki vermek-2435
+6894-compliment-iltifat etmek-2436
+6633-aware-farkında-2437
+6633-concerned-endişeli,ilgili-2438
+6886-convenient-uygun-2439
+7095-definite-kesin,belli-2440
+6881-dull-donuk,durgun-2441
+6602-determined-kararlı,belirlenmiş-2442
+6703-experimental-deneysel-2443
+7065-generous-cömert-2444
+7528-practical-uygulamalı,kullanışlı-2445
+7082-present-şuanki-2446
+6637-spiritual-manevi-2447
+7190-straightforward-açık,anlaşılır-2448
+7328-strict-katı,sert-2449
+7100-solid,strict,rigid-katı,sert-2450
+6909-use up-tüketmek,harcamak-2451
+6689-unfair-adil olmayan-2452
+6362-unfair-adil olmayan,adaletsiz,haksız-2453
+6862-further-ileri,başka,daha çok-2454
+6833-widespread-yaygın-2455
+7106-appealing-cazip,çekici-2456
+7230-favorable-elverişli,faydalı-2457
+8906-drastic-şiddetli,önemli-2458
+7478-detrimental-zararlı-2459
+6972-resistant-dirençli-2460
+7690-extravagant-savurgan-2461
+7482-gradual-aşamalı-2462
+6739-arrogant-kibirli,kendini beğenmiş-2463
+7389-preventive-koruyucu,önleyici-2464
+6674-irreversible-geri döndürülemez-2465
+6973-diffident-utangaç,çekingen-2466
+6660-glamorous-çekici,büyüleyici-2467
+6675-indicative-gösteren,belirtici-2468
+7262-dazzling-şaşırtıcı-2469
+6142-diverse-çeşitli-2470
+7724-poignant-üzücü,dokunaklı-2471
+7569-slippery-kaygan-2472
+6952-memorable-hatırlamaya değer-2473
+7009-prominent-seçkin-2474
+6905-inexpensive,cheap-ucuz,masrafsız-2475
+7381-endemic-sık görülen,yöresel-2476
+6794-tedious-can sıkıcı-2477
+7511-extinct-nesli tükenmiş-2478
+7171-uneasy-huzursuz,endişeli-2479
+6682-irregular-düzensiz-2480
+6804-fanciful-hayalci,hayalperest-2481
+7307-intrinsic-asıl,hakiki-2482
+6998-attainable-elde edilebilir-2483
+7482-scarce-nadir,az,kıt-2484
+7436-stagnant-durgun,sakin-2485
+7091-disputable-tartışılabilir-2486
+7644-spontaneous-kendiliğinden olan-2487
+7891-deceitful-hilekar-2488
+6691-inessential-gerekli olmayan-2489
+7359-inclusive-kapsamlı-2490
+6741-refutable-aksi ispatlanabilir-2491
+6695-virtuous-erdemli-2492
+7086-impetuous-aceleci-2493
+7020-inquire-sormak,soruşturmak-2494
+6889-curtain-perde-2495
+6926-instinct-içgüdü-2496
+6720-cruise-dolaşmak,gemi ile dolaşmak-2497
+6653-dimple-gamze-2498
+6969-banister-korkuluk-2499
+6758-agriculture -tarım-2500
+6673-pavement-kaldırım-2501
+6720-delighted-memnun-2502
+6762-flood-sel basmak,su basmak-2503
+6546-across-karşısında-2504
+6901-disappear-kaybolmak,gözden kaybolmak-2505
+6716-blatantly-bariz bir şekilde-2506
+6718-reach out-uzanmak,uzatmak-2507
+6900-vague,indefinite,ambiguous,indistinct,obscure,equivocal-belirsiz-2508
+6649-vague,indefinite,ambiguous,indistinct,obscure,equivocal-belirsiz-2509
